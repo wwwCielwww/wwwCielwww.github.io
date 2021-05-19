@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, it's Ciel. The French word *ciel* means sky / sky blue / paradise in English. It's also the name of one of my favourite anime characters. The website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io), although it may not appear very academic at my hands XD.  Many thanks to the development team for providing the super clean and concise theme.  
+ 
 
 Create content & metadata
 ------
