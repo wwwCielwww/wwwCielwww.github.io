@@ -1,7 +1,7 @@
 ---
-title: Reinforcement Learning: An Intro
+title: 'Reinforcement Learning: An Intro'
 date: 2021-05-19
-permalink: /posts/rl-1
+permalink: /posts/2021/05/rl-1/
 tags:
   - Reinforcement Learning
 ---
