@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ciel / Wonderland"
 title_separator          : "-"
-name                     : &name "Xijia"
+name                     : &name "Ciel"
 description              : &description "Xijia Tao's personal website. Ready to hop into her world of Computer Science, Maths and more? "
 url                      : https://wwwCielwww.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "g0PMFMpXJBX5oyCxUuBMU7oeajKPX2uIBwitb7Kocpc"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
