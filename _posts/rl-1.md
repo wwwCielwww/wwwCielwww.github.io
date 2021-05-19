@@ -2,8 +2,6 @@
 title: 'Reinforcement Learning - An Intro'
 date: 2021-05-19
 permalink: /posts/2021/05/rl-1/
-tags:
-  - Reinforcement Learning
 ---
 
 The blog will discuss what reinforcement learning (RL) is and what its key elements are.
