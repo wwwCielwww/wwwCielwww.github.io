@@ -1,5 +1,5 @@
 ---
-title: 'Reinforcement Learning: An Intro'
+title: 'Reinforcement Learning - An Intro'
 date: 2021-05-19
 permalink: /posts/2021/05/rl-1/
 tags:
@@ -13,7 +13,7 @@ The blog will discuss what reinforcement learning (RL) is and what its key eleme
 The problem RL addresses is how an **agent** can maximize its **reward** in a complex and uncertain **environment**. The interaction between agent and environment involves
 
 - agent obtaining the current **state** from the environment;
-- agent outputting an **action **(aka a decision) based on the states;
+- agent outputting an **action** (aka a decision) based on the states;
 - environment returning the next state and reward which directly results from the previous action taken.
 
 Examples include game play, robot control, etc. Many hold high expectation towards the field since it has the potential to exceed a mortal's ability in terms of decision making. 
