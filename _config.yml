@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Ciel / Wonderland"
 title_separator          : "-"
-name                     : &name "Ciel"
-description              : &description "qwq"
+name                     : &name "Xijia"
+description              : &description "Xijia Tao's personal website. Ready to hop into her world of Computer Science, Maths and more? "
 url                      : https://wwwCielwww.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wwwCielwww/wwwCielwww.github.io"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Xijia Tao"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : "Attempting to subvert fate"
+  location         : "HKSAR, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "u3576776@connect.hku.hk"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://hk.linkedin.com/in/xijia-ciel-tao"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
