@@ -8,24 +8,20 @@ redirect_from:
   - /about.html
 ---
 
- 
+💕 Hello, it's great to have you here! 💕 
 
-Create content & metadata
+## Who Am I?
+
+I'm Ciel, currently doing undergrad at the University of Hong Kong, Faculty of Engineering. I will presumably take Computer Science as my major before the beginning of my sophomore year. Like many CS students and/or to-be, I have a profound passion for mathematics. Probably because it will temporarily get me out of the daily ordeal as a programmer😭. It's not like I don't like to code. It's just for now I'm very confused about what I really want from doing so. But still, until I found an answer, I'll keep exploring the new possibilities and share some fun stuff that I encounter along the way. 
+
+If you care to know, my not-so-academic hobbies include travelling, gaming (I'm playing Genshin Impact!!), and ... nothing else. People know me long enough would definitely think me as that kind of unsociable geek locking herself in her room doing somewhat boring stuff all day long. I'd say they are right to some extent, although I do like hanging out on my own to explore the comforting side of this cruel, cruel world. 
+
+You can know more about my ambitions, intention with this site, etc. in the following sections. ↘️
+
+## Ambitions?
+
+Updating
+
+Contents?
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Updating
