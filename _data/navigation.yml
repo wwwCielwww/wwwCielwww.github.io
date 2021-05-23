@@ -3,6 +3,12 @@ main:
   - title: "Blog Posts"
     url: /posts/
     
+  - title: "by Category"
+    url: "/categories/"
+    
+  - title: "by Tag"
+    url: "/tags/"
+    
   - title: "Coursework"
     url: /markdown/
     
