@@ -16,22 +16,12 @@
   }
 }
 
+.sidebar {
+  @include span(2 of 12);
+}
+
 .page {
-  @include breakpoint($large) {
-    @include span(10.4 of 12 last);
-    @include prefix(0.8 of 12);
-    @include suffix(0.8 of 12);
-  }
-
-  .page__inner-wrap {
-    @include full();
-
-    .page__content,
-    .page__meta,
-    .page__share {
-      @include full();
-    }
-  }
+  @include span(10 of 12 last);
 }
 
 .page__title {
@@ -226,7 +216,7 @@
    ========================================================================== */
 
 .page__meta {
-  margin-top: 2em;
+  margin-top: 1em;
   color: mix(#fff, $gray, 25%);
   font-family: $sans-serif;
   font-size: $type-size-6;
