@@ -16,12 +16,26 @@
   }
 }
 
+.sidebar {
+	@include span(1.5 of 12)
+}
+
 .page {
-    width: 88.05085%;
-    float: right;
-    margin-right: 0;
-    padding-left: 4.23729%;
-    padding-right: 11.94915%;
+  @include breakpoint($large) {
+    @include span(9 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(1 of 12);
+  }
+
+  .page__inner-wrap {
+    @include full();
+
+    .page__content,
+    .page__meta,
+    .page__share {
+      @include full();
+    }
+  }
 }
 
 .page__title {
