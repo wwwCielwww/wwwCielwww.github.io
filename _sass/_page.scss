@@ -17,11 +17,11 @@
 }
 
 .sidebar {
-  @include span(3 of 12);
+  @include span(4 of 12);
 }
 
 .page {
-  @include span(9 of 12 last);
+  @include span(8 of 12 last);
 }
 
 .page__title {
