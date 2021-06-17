@@ -17,5 +17,8 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+  
+  - title: "Notes for Visitors"
+    url: /note/
     
   
