@@ -1,7 +1,7 @@
 ---
-permalink: /note
+permalink: /note/
 title: "Notes for Visitors - Ciel / Wonderland"
-excerpt: "The website's viewing advice"
+excerpt: "The website's viewing suggestions"
 ---
 
 Dear visitor,
