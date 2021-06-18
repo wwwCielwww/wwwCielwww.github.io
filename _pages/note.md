@@ -14,5 +14,9 @@ For your better desktop viewing experience,
 - Press `Ctrl` + `R` to refresh the current webpage / `Ctrl` + `F5` to clear cache of the webpage;
 - Use another browser when MathJax does not render.
 
+Current issue:
+
+- (MathJax) With inline mode,  expressions of the form`\mathxx{x}_x^x` are somehow not rendered correctly, and are messing up the display of the rest of the paragraph. Therefore, as a temporary measure, `\mathxx{}` will not be not used under such circumstances. 
+
 Please feel free to contact me for any matter related to the site. Suggestions for improvements would be greatly appreciated.
 
